@@ -39,11 +39,16 @@ My abilities are drawn from a wide range of powerful technologies:
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
-      <h4>Intel & Strategy (AI/ML)</h4>
+      <!-- THIS SECTION HAS BEEN UPDATED -->
+      <h4>Intel & Reconnaissance (AI/ML & Web Scraping)</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
         <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+        <img src="https://img.shields.io/badge/Beautiful%20Soup-4CBF91?style=for-the-badge" alt="Beautiful Soup"/>
+        <img src="https://img.shields.io/badge/Scrapy-146A7A?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
       </p>
     </td>
     <td valign="top" width="50%">
