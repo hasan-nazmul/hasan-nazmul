@@ -13,7 +13,7 @@
   <!-- Replace the links with your actual profile URLs -->
   <a href="https://www.linkedin.com/in/nazmul-hasan-1329511aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hasan-nazmul" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://nazmul-hasan-s-pratfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Hero_Archives-FFD700?style=for-the-badge&logo=Buffer&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://personal-portfolio-pi-topaz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Hero_Archives-FFD700?style=for-the-badge&logo=Buffer&logoColor=black" alt="Portfolio"/></a>
   <a href="mailto:nh2826239@gmail.com"><img src="https://img.shields.io/badge/Summon_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
@@ -21,7 +21,7 @@
 
 ### 🔥 My Origin Story
 
-Forged in the fires of competitive programming and trained at the International Islamic University Chittagong, I embarked on a quest to master the digital realm. My journey led me to become a Pupil on Codeforces and an ICPC Regional Finalist, honing my skills against the world's toughest challenges. Now, I use my powers not just for glory, but to guide the next generation of heroes as a Teaching Assistant and Mentor.
+Forged in the fires of competitive programming and trained at the International Islamic University Chittagong, I embarked on a quest to master the digital realm. My journey led me to become a Pupil on Codeforces and an ICPC Regional Contestant, honing my skills against the world's toughest challenges. Now, I use my powers not just for glory, but to guide the next generation of heroes as a Teaching Assistant and Mentor.
 
 ---
 
@@ -78,7 +78,7 @@ These are the chronicles of my most notable quests.
 
 A collection of relics from battles won and challenges overcome.
 
-- 🏅 **ICPC Regional Finalist 2024:** Entered the Arena of Legends.
+- 🏅 **ICPC Regional Contestant 2024:** Entered the Arena of Legends.
 - 🥇 **Two-Time University Champion:** Victor of the Intra-University Programming Contests.
 - 🎖️ **Problem Setter:** Architect of challenges for future heroes.
 - 🌟 **Best Mentor Award:** Recognized for guiding the next generation.
