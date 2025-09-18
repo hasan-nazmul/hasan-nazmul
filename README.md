@@ -30,7 +30,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m currently a final-year student in **Computer Science and Engineering** at IIUC.
-- 🏆 I'm an avid **Competitive Programmer**, an ICPC Asia Dhaka Regional 2024 Finalist, and a Pupil on Codeforces.
+- 🏆 I'm an avid **Competitive Programmer**, an ICPC Asia Dhaka Regional 2024 Contestant, and a Pupil on Codeforces.
 - 👨‍🏫 I have a passion for mentorship, serving as an **Undergraduate Teaching Assistant** for courses on Competitive Programming and as a **Bootcamp Mentor**.
 - 💡 My interests lie in **Backend Development**, **Machine Learning**, and **Algorithm Design**.
 - 🚀 I'm always looking for opportunities to learn, collaborate, and contribute to exciting projects.
@@ -78,7 +78,7 @@ Here are the technologies I'm proficient with:
 
 My journey in competitive programming has been a cornerstone of my growth. Here are some of my proudest achievements:
 
-- 🏅 **ICPC Asia Dhaka Regional 2024 Finalist**
+- 🏅 **ICPC Asia Dhaka Regional 2024 Contestant**
 - 🥇 **Champion** - Intra University Programming Contest (Autumn'23 & Spring'23)
 - 🥈 **First Runner-Up** - Intra University Programming Contest (Autumn'22)
 - 🌟 **Rising Star** - Intra University Programming Contest (Autumn'22)
