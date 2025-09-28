@@ -87,7 +87,7 @@ A collection of relics from battles won and challenges overcome.
 - 🥇 **Two-Time University Champion:** Victor of the Intra-University Programming Contests.
 - 🎖️ **Problem Setter:** Architect of challenges for future heroes.
 - 🌟 **Best Mentor Award:** Recognized for guiding the next generation.
-- 💻 **Pupil of Codeforces:** Earned my rank among the global elite.
+- 🟢 **Pupil of Codeforces:** Earned my rank among the global elite.
 
 ---
 
