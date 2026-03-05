@@ -209,11 +209,11 @@
 
 <p align="center">
   <a href="https://github.com/hasan-nazmul">
-    <img src="https://github-readme-stats-hasan-nazmuls-projects.vercel.app/api?username=hasan-nazmul&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=E04F5F" alt="Nazmul's GitHub Stats"/>
+    <img src="https://github-readme-stats-gaz5vagy3-nazmuls-projects-e09ea819.vercel.app/api?username=hasan-nazmul&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=E04F5F" alt="Nazmul's GitHub Stats"/>
   </a>
   <br/><br/>
   <a href="https://github.com/hasan-nazmul">
-    <img src="https://github-readme-stats-hasan-nazmuls-projects.vercel.app/api/top-langs/?username=hasan-nazmul&layout=compact&langs_count=10&theme=radical&border_radius=15&border_color=E04F5F" alt="Top Languages"/>
+    <img src="https://github-readme-stats-gaz5vagy3-nazmuls-projects-e09ea819.vercel.app/api/top-langs/?username=hasan-nazmul&layout=compact&langs_count=10&theme=radical&border_radius=15&border_color=E04F5F" alt="Top Languages"/>
   </a>
   <br/><br/>
   <a href="https://github.com/hasan-nazmul">
