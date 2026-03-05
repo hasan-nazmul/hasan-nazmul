@@ -174,7 +174,7 @@
 
 ## 🏆 THE TROPHY ROOM — Relics from Battles Won
 
-> *"He who controls the spice, controls the universe."*
+> *"Greatness is a transitory experience. It is never consistent."*
 
 | Year | Achievement |
 |---|---|
@@ -208,11 +208,17 @@
 ## 📈 CURRENT POWER LEVELS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-nazmul&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=E04F5F" alt="Nazmul's GitHub Stats"/>
+  <a href="https://github.com/hasan-nazmul">
+    <img src="https://github-readme-stats-hasan-nazmuls-projects.vercel.app/api?username=hasan-nazmul&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=E04F5F" alt="Nazmul's GitHub Stats"/>
+  </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-nazmul&layout=compact&langs_count=10&theme=radical&border_radius=15&border_color=E04F5F" alt="Top Languages"/>
+  <a href="https://github.com/hasan-nazmul">
+    <img src="https://github-readme-stats-hasan-nazmuls-projects.vercel.app/api/top-langs/?username=hasan-nazmul&layout=compact&langs_count=10&theme=radical&border_radius=15&border_color=E04F5F" alt="Top Languages"/>
+  </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-nazmul&theme=radical&border=E04F5F&ring=E04F5F&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak"/>
+  <a href="https://github.com/hasan-nazmul">
+    <img src="https://streak-stats.demolab.com/?user=hasan-nazmul&theme=radical&border=E04F5F&ring=E04F5F&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <br/>
